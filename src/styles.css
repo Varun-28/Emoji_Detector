@@ -1,0 +1,30 @@
+.App {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin: 0;
+  background-size: contain;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+input {
+  padding: 1rem;
+  width: 50%;
+  border: solid 2px #7d1935;
+  border-radius: 30px;
+}
+h1 {
+  font-size: 40px;
+  color: #7d1935;
+  text-decoration: underline;
+}
+.emojiDesciption {
+  font-size: 25px;
+  color: #3d087b;
+}
+.emojiWeHave {
+  font-size: 30px;
+  color: #e63e6d;
+}
